@@ -1,6 +1,6 @@
 # Description of this data
- The codes and data are for the paper Improving accuracy in the estimation of probable dementia in racially and
-ethnically diverse groups with penalized regression and transfer learning. 
+ The codes and data are for the paper "Improving accuracy in the estimation of probable dementia in racially and
+ethnically diverse groups with penalized regression and transfer learning". 
 
 ## Data
 - Source data
