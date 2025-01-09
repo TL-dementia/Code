@@ -1,6 +1,5 @@
 # Description of this data
- The codes and data are for the paper "Improving accuracy in the estimation of probable dementia in racially and
-ethnically diverse groups with penalized regression and transfer learning". 
+ The codes and data are for the paper Improving accuracy in the estimation of probable dementia in racially and ethnically diverse groups with penalized regression and transfer learning (2025) by Jung Hyun Kim, M.Maria Glymour, Kenneth Langa, and Anja K. Leist. 
 
 ## Data
 - Source data
@@ -30,3 +29,5 @@ ethnically diverse groups with penalized regression and transfer learning".
 3. Use 3-1. Self estimation.R to replicate the main results for the self-respondents.
 4. Use 3-2. Proxy estimation.R to replicate the main results for the proxy-respondents.
 5. Use 4. Source of bias.R to visualize the bias.
+
+If you encounter any errors/problems reproducing the results, please send Jung Hyun an email.
