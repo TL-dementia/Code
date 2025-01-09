@@ -1,4 +1,5 @@
 # Description of this data
+[![DOI](https://zenodo.org/badge/798656941.svg)](https://doi.org/10.5281/zenodo.14624558)
  The codes and data are for the paper Improving accuracy in the estimation of probable dementia in racially and ethnically diverse groups with penalized regression and transfer learning (2025) by Jung Hyun Kim, M.Maria Glymour, Kenneth Langa, and Anja K. Leist. 
 
 ## Data
